@@ -25,17 +25,17 @@ Headline finding: **no north-central WV shop checked publishes a managed-IT pric
 |---|---|---|---|---|
 | Tekswift | Morgantown | Malware & virus removal | from $95 (flat) | [tekswift.com](https://tekswift.com/computer-repair-morgantown-wv/) |
 | Tekswift | Morgantown | Laptop screen replacement | from $175 (flat) | [tekswift.com](https://tekswift.com/computer-repair-morgantown-wv/) |
-| Mighty Bright Technologies | Bridgeport | Diagnostic / estimate fee | from $40 | [mightybright.tech](https://mightybright.tech/policies) |
+| Mighty Bright Technologies | Harrison Co. | Diagnostic / estimate fee | from $40 | [mightybright.tech](https://mightybright.tech/policies) |
 | JNM PC Experts | Clarksburg | Computer tune-up | $60 (on its YellowPages listing, not its own site) | [yellowpages.com](https://www.yellowpages.com/clarksburg-wv/mip/jnm-pc-experts-474127002) |
-| Advantage Technology | Bridgeport | Managed IT | not published | [advantage.tech](https://www.advantage.tech/ai-services/training-workforce-enablement/) |
-| Citynet | Bridgeport | Managed IT | not published ("fixed monthly fee", no figure) | [citynet.net](https://www.citynet.net/network-services/managed-it-services/) |
+| Advantage Technology | Harrison Co. | Managed IT | not published | [advantage.tech](https://www.advantage.tech/ai-services/training-workforce-enablement/) |
+| Citynet | Harrison Co. | Managed IT | not published ("fixed monthly fee", no figure) | [citynet.net](https://www.citynet.net/network-services/managed-it-services/) |
 | IT Mindshare | Morgantown | Managed IT / cybersecurity | not published | [itmindshare.com](https://www.itmindshare.com/cmmc/) |
 | ITS — Infinite Technology Solutions | Morgantown | Computer/network repair & support | not published | [itwv.com](https://www.itwv.com/) |
 | Hart Office Solutions | Clarksburg | Managed IT / managed print | not published | [hartofficesolutions.com](https://hartofficesolutions.com/) |
 | Global Science & Technology | Fairmont | IT services | not published (site only partly readable — see Unsure) | [gst.com](https://gst.com/) |
 | Strategy IT | Buckhannon | IT support, managed services | not published | [strategyits.com](http://www.strategyits.com/) |
 
-Also checked on their own sites, all "not published": Business First IT and Noltech (Bridgeport), AllTech and Clemens Computer Care (Clarksburg), Fairmont Computer Repair (Fairmont), NCIT (Buckhannon), Premier Computer Services and ITrend Technology (Morgantown). In total, 15+ local sites were opened; only three publish any dollar figure at all, and none for managed IT.
+Also checked on their own sites, all "not published": Business First IT and Noltech (Harrison Co.), AllTech and Clemens Computer Care (Clarksburg), Fairmont Computer Repair (Fairmont), NCIT (Buckhannon), Premier Computer Services and ITrend Technology (Morgantown). In total, 15+ local sites were opened; only three publish any dollar figure at all, and none for managed IT.
 
 **Regional benchmarks — NOT local** (published prices from nearby states / national reports, for comparison only):
 
