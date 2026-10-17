@@ -2,23 +2,26 @@
 
 Date checked: 2026-10-17. Scope: US customer in West Virginia, single low-use SMS/2FA line, unlocked Pixel. Official carrier pages only. Checkout attempts used WV ZIP 26554, no account created, nothing paid. UNKNOWN = an official page / reachable cart did not state it.
 
+Revision note (2026-10-17, later the same day): the US Mobile live cart check finished just after v1 was published. It corrected three US Mobile points — Light guest-checkout total ($10.00, taxes & fees included), the exact Custom build price ($7.50/mo), and the FlashBlack Friday promo terms (port-in ONLY per the full terms). Sections (a) and the scorecard below are the corrected versions.
+
 ## Summary
 
 - Cheapest verified MMS+SMS-capable monthly plan: **Tello 2 GB + 300 min + free text = $8/mo** (its $5 plan has no data, and Tello itself says data is required for MMS). WV tax total at checkout: UNKNOWN (account-gated).
-- **US Mobile Light = $10/mo or $96/yr, 2 GB — baseline VERIFIED.** Unlimited Starter regular = $25/mo; a $10/mo-for-6-months Starter promo is live Oct 15–20, 2026. US Mobile advertises all-in pricing (taxes & fees included).
+- **US Mobile Light = $10/mo or $96/yr, 2 GB — baseline VERIFIED**, and its guest checkout totals exactly $10.00 (taxes & fees included, no separate fee lines). Custom build (unlimited text + 50 MB + no talk) = **$7.50/mo**. Unlimited Starter regular = $25/mo; the $10/mo-for-6-months Starter promo (code FBF10, ends Oct 20, 2026) is **port-in only** per its full terms — baseline VERIFIED on that point.
 - **Mint cheapest = 6 GB, $15/mo new-customer 3-month ($45 upfront)**; renewals $25/$20/$15 per month on 3/6/12-month terms. Final WV total at checkout: UNKNOWN (needs full billing address + payment entry).
 - **Big correction: AT&T Prepaid does NOT need a Number Transfer PIN.** The myAT&T / *PORT PIN steps in the baseline are for postpaid AT&T Wireless. Prepaid ports out with its account number + account PIN/passcode; the account number is only given out by phone support per AT&T's page. No port-out/PIN fee; prepaid balance is nonrefundable.
 
 ## (a) US Mobile
 
-- **Light: $10/mo monthly · $8/mo annual ($96/year), 2 GB high-speed, unlimited talk & text.** At 2 GB data stops completely (no throttle). Source: https://www.usmobile.com/help/docs/our-plans/core-plans/low-data-plans
-- **Custom: starts at $4/mo — VERIFIED as the stated floor**, same source above. But the current help page says custom plans are found **in the app** when purchasing, under Low data plans; no public web builder price for "unlimited text + smallest data" was reachable without the app/account, so that exact build price is **UNKNOWN** (do not use the old blog matrix — it is ~5 years old). Same source.
+- **Light: $10/mo monthly · $8/mo annual ($96/year), 2 GB high-speed, unlimited talk & text.** At 2 GB data stops completely (no throttle). It **is** sold on the web plans page (Custom tab), which states "Taxes & fees included on Light Plan". Source: https://www.usmobile.com/help/docs/our-plans/core-plans/low-data-plans and the live plans page https://www.usmobile.com/plans
+- **Light guest checkout (live, 2026-10-17): Subtotal $10.00, Light Plan $10.00, no separate service fee, recovery fee, or tax line items anywhere on the checkout page.** The ZIP field there is the payment billing address, not a tax estimator, so there is no WV add-on to reveal — the WV total for Light is $10.00 as shown (stopped before entering any payment details; nothing paid).
+- **Custom: starts at $4/mo — VERIFIED as the stated floor** (same help source). The live web builder prices the requested cheapest sensible build exactly: **50 MB data $1.50 + 0 min talk $0 + Unlimited Texts $6 = $7.50/mo** (builder tiers observed: data 0 MB / 50 MB $1.50 / 100 MB $2 / 500 MB $5 / 2 GB $10 / 4 GB $15 / 6 GB $20 / 15 GB $26; texts up to Unlimited $6; talk 0 min free to Unlimited $8). Selecting that build then hits a "Sign in or create account" gate, so no custom-plan cart total beyond the builder price exists without an account. Sources: https://www.usmobile.com/help/docs/our-plans/core-plans/low-data-plans and the live builder at https://www.usmobile.com/plans
 - **Unlimited Starter regular price: $25/mo**, taxes included ("Unlimited Starter is $25/mo regular monthly"). Sources: https://www.usmobile.com/blog/best-unlimited-data-plan/?srsltid=AfmBOoqF9YvQOPyW8VPhaf71UCOkYgrv5StRgbaJTXBP4e6PaIUzCJWl and https://www.usmobile.com/blog/best-cell-phone-plans/
-- **Promo live now:** "FlashBlack Friday (#FBF)", Oct 15–20, 2026: monthly Unlimited Starter **$10/mo for the first 6 months** (Premium $20/mo). The promo archive does **not** state "port-in only"; the Unlimited get-started page frames offers as "For new lines & port-ins". So baseline "port-in only" = **CORRECTED / not stated that way**; whether a brand-new (non-ported) line qualifies = UNKNOWN from the archive. Annual Starter is also $199 for the first year under "Only Deals" (Sep 30 – Oct 20, 2026). Source: https://www.usmobile.com/promo-archive and https://www.usmobile.com/get-started-unlimited?plan=12+months+of+Unlimited+Starter
+- **Promo live now:** "FlashBlack Friday (#FBF)", Oct 15–20, 2026: monthly Unlimited Starter **$10/mo for the first 6 months** with code **FBF10** (Premium $20/mo with FBF20), then renews at the regular price ($25/mo Starter). **Full terms: port-in ONLY** — "Line must be a port-in from another carrier. New-number activations are not eligible. Lines ported in from Number Barn or Google Voice are not eligible." Also: activate within 90 days of purchase, line not active on US Mobile in the last 30 days, max 5 lines per account/household, monthly plans only. The plans-page card says the same in short form: "Use code FBF10. Port-ins only. Renews at $25/mo. after 6 mos." So baseline "port-in only" = **VERIFIED** (the promo archive's short summary omits eligibility; the full terms settle it). Annual Starter is also $199 for the first year under "Only Deals" (Sep 30 – Oct 20, 2026). Sources: https://www.usmobile.com/promo-archive (incl. full FBF terms) and https://www.usmobile.com/plans
 - **Fees:** US Mobile's current positioning is all-in: "All our prices include taxes & fees. What you see is what you pay." Source: https://www.usmobile.com/features
   - Baseline "$2 service fee": found only in an old US Mobile blog post, which said the $2/mo service ("line") fee is **always included automatically** in plan-page prices. Not found as a separate current charge. Source: https://www.usmobile.com/blog/why-are-us-mobiles-plans-so-inexpensive/
   - Baseline "$1–$5 recovery fee": current Terms (§4.4) confirm a Recovery Fee **may** be imposed on certain plans, on a sliding scale by plan, retained by US Mobile, explicitly **not** a government tax — but the Terms give **no dollar range**, so "$1–$5" = **UNKNOWN / unverified** on official pages checked. Source: https://www.usmobile.com/terms?c
-- **WV checkout total: UNKNOWN.** The live cart attempt was stopped before completion; no WV total was verified. Given the all-in claim above, the expected total is the plan price, but that is the carrier's claim, not a verified cart total.
+- **WV checkout total: Light = $10.00 verified at guest checkout (see above).** Custom builds and Unlimited Starter checkouts require account creation, so their cart totals are UNKNOWN; US Mobile advertises those prices as taxes & fees included, but that claim was only cart-verified for Light.
 
 ## (b) Mint Mobile and Tello
 
@@ -66,8 +69,8 @@ For completeness — the baseline steps describe **postpaid AT&T Wireless** (not
 | Baseline claim | Verdict |
 |---|---|
 | US Mobile Light $10/mo or $96/yr, 2 GB | VERIFIED |
-| US Mobile Custom starts at $4/mo | VERIFIED (floor only; exact sensible-build price UNKNOWN, app-gated) |
-| Unlimited Starter $10/mo for 6 months, then $25/mo | MOSTLY VERIFIED — promo is real (Oct 15–20, 2026) and regular price is $25/mo; "port-in only" NOT stated (page says new lines & port-ins) |
+| US Mobile Custom starts at $4/mo | VERIFIED (floor); requested build priced exactly: unlimited text + 50 MB + no talk = $7.50/mo |
+| Unlimited Starter $10/mo for 6 months, port-in only, then $25/mo | VERIFIED in full — promo FBF10, Oct 15–20, 2026, full terms require a port-in (new numbers and NumberBarn/Google Voice ports excluded), renews at $25/mo |
 | US Mobile $2 service fee + $1–$5 recovery fee per line | PARTLY STALE — $2 fee appears only in an old blog and was described as already included in prices; Recovery Fee exists in Terms with no dollar range ($1–$5 UNKNOWN); current pricing is advertised all-in |
 | Tello minimum $5 | VERIFIED (300 min, no data, free text) |
 | Tello $0 government taxes | CORRECTED — taxes vary by location and are collected; WV amount UNKNOWN (account-gated checkout) |
@@ -79,13 +82,12 @@ For completeness — the baseline steps describe **postpaid AT&T Wireless** (not
 ## How I checked it
 
 - Read the carriers' official plan, help, terms, promo-archive and FCC broadband-label pages (URLs above), 2026-10-17.
-- Ran live cart/checkout attempts for Mint and Tello with WV ZIP 26554, stopping at the point each site demanded personal/payment data or account creation; the US Mobile cart attempt was stopped on request before completion, so its WV total is UNKNOWN rather than estimated.
+- Ran live cart/checkout attempts for all three carriers with WV ZIP 26554, stopping at the point each site demanded personal/payment data or account creation: US Mobile Light guest checkout completed to a $10.00 summary; Mint stopped at its address/payment gate; Tello stopped at its login gate.
 - Compared every baseline claim line-by-line against the pages above.
 
 ## Unsure about
 
-- All three WV checkout totals (US Mobile, Mint final, Tello) — none could be completed without an account or personal/payment details, so all are UNKNOWN, not zero.
-- US Mobile Custom exact price for unlimited text + smallest data (app-gated), and the current dollar amount of US Mobile's Recovery Fee on any specific plan.
-- Whether the US Mobile $10/mo Starter promo accepts a brand-new number (not a port-in).
+- Mint's final WV total and Tello's WV total — neither could be completed without an account or personal/payment details, so both are UNKNOWN, not zero. US Mobile cart totals beyond Light (Custom, Unlimited Starter) are likewise account-gated.
+- The current dollar amount of US Mobile's Recovery Fee on any specific plan (Terms give no range; the Light guest checkout showed no recovery-fee line at all).
 - Whether Wireless Account Lock applies to AT&T Prepaid lines.
 - Prices/promos are as of 2026-10-17; the US Mobile promos above end Oct 20, 2026.
