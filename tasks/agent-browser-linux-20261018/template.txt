@@ -1,0 +1,9 @@
+# agent-browser-linux-20261018
+
+Goal: <one sentence: what to find out and why>
+
+<sources to use, then what RESULT must contain, as a numbered list>
+
+Rules: public pages only, no login, no account, no purchase, no messages or comments to anyone. A link and read date for every fact. Say "unsure" rather than guess. End with **How I checked it** and **Unsure about**.
+
+Delivery: reply in this chat with the full RESULT block: first line `RESULT agent-browser-linux-20261018`, then the complete answer in Markdown (write every source as a full https:// link in plain text), last line `END agent-browser-linux-20261018`. Also push `results/agent-browser-linux-20261018/RESULT.md` to GitHub only if asked.
